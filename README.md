@@ -19,7 +19,7 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 First, clone the repository from GitHub into your local machine. You can do this by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/LCDA-UCP/tac-hands-on.git
+git clone https://github.com/LCDA-UCP/dl_with_pytorch.git
 ```
 
 Open the repository in your favorite IDE and install the dependencies (if missing):
