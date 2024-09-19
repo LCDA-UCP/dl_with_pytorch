@@ -8,11 +8,11 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 
 ## Syllabus
 
-| **Module** | **Topic**           | **Lecture**                          | **Exercises** |
-| -- |---------------------|--------------------------------------|---------------|
-| 1 | Course Introduction | [lecture](lectures/DL-Session01.pdf) | -             |
-| 2 | -                   | -                                    | -             |
-| 3 | -                   | -                                    | -             |
+| **Module** | **Topic**           | **Lecture**                          | **Exercises**                    |
+| -- |---------------------|--------------------------------------|----------------------------------|
+| 1 | Course Introduction | [lecture](lectures/DL-Session01.pdf) | -                                |
+| 2 | Fundamentals        | [lecture](lectures/DL-Session02.pdf) | [exercises](exercises/session02) |
+| 3 | -                   | -                                    | -                                |
 
 ## Setup
 
