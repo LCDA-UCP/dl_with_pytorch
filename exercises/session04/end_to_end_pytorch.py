@@ -6,4 +6,3 @@
 # 4. Define the optimizer
 # 5. Train the model
 # 6. Make predictions
-
