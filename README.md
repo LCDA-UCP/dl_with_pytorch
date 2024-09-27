@@ -65,3 +65,18 @@ git pull origin main
 ```
 
 This will update your branch with the latest changes from the main branch.
+
+## If pull fails:
+
+If you get an error message, make sure to commit your changes before pulling the changes from the main branch.
+
+You may also need to fetch the changes from the main branch and merge them into your branch.
+
+For that, run the following commands in your terminal:
+
+```bash
+git fetch origin main
+git merge origin/main
+```
+
+If you have any conflicts, you will need to resolve them before committing the changes.
