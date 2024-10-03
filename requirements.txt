@@ -1,1 +1,4 @@
 matplotlib==3.9.2
+modin[all]
+scikit-learn
+nltk

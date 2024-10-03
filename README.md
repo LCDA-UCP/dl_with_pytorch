@@ -8,14 +8,16 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 
 ## Syllabus
 
-| **Module** | **Topic**            | **Lecture**                          | **Exercises**                    |
-|------------|----------------------|--------------------------------------|----------------------------------|
-| 1          | Course Introduction  | [lecture](lectures/DL-Session01.pdf) | -                                |
-| 2          | NumPy Fundamentals   | [lecture](lectures/DL-Session02.pdf) | [exercises](exercises/session02) |
-| 3          | The Perceptron       | [lecture](lectures/DL-Session03.pdf) | [exercises](exercises/session03) |
-| 4          | PyTorch Introduction | [lecture](lectures/DL-Session04.pdf) | [exercises](exercises/session04) |
-| 5          | -                    | -                                    | -                                |
-| 6          | -                    | -                                    | -                                |
+| **Module** | **Topic**                    | **Lecture**                          | **Exercises**                    |
+|------------|------------------------------|--------------------------------------|----------------------------------|
+| 1          | Course Introduction          | [lecture](lectures/DL-Session01.pdf) | -                                |
+| 2          | NumPy Fundamentals           | [lecture](lectures/DL-Session02.pdf) | [exercises](exercises/session02) |
+| 3          | The Perceptron               | [lecture](lectures/DL-Session03.pdf) | [exercises](exercises/session03) |
+| 4          | PyTorch Introduction         | [lecture](lectures/DL-Session04.pdf) | [exercises](exercises/session04) |
+| 5          | Training Neural Networks     | [lecture](lectures/DL-Session05.pdf) | -                                |
+| 6          | Neural Networks with PyTorch | -                                    | [exercises](exercises/session06) |
+| 7          | -                            | -                                    | -                                |
+| 8          | -                            | -                                    | -                                |
 
 ## Setup
 
