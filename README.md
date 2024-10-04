@@ -15,7 +15,7 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 | 3          | The Perceptron               | [lecture](lectures/DL-Session03.pdf) | [exercises](exercises/session03) |
 | 4          | PyTorch Introduction         | [lecture](lectures/DL-Session04.pdf) | [exercises](exercises/session04) |
 | 5          | Training Neural Networks     | [lecture](lectures/DL-Session05.pdf) | -                                |
-| 6          | Neural Networks with PyTorch | -                                    | [exercises](exercises/session06) |
+| 6          | Neural Networks with PyTorch | [lecture](lectures/DL-Session06.pdf) | [exercises](exercises/session06) |
 | 7          | -                            | -                                    | -                                |
 | 8          | -                            | -                                    | -                                |
 
