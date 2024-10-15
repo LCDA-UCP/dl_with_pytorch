@@ -18,8 +18,12 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 | 6          | Neural Networks with PyTorch              | [lecture](lectures/DL-Session06.pdf) | [exercises](exercises/session06-08)  |
 | 7          | Model Selection and Hyperparameter Tuning | [lecture](lectures/DL-Session07.pdf) | -                                    |
 | 8          | Neural Networks with PyTorch              | [lecture](lectures/DL-Session08.pdf) | [exercises](exercises/session06-08)  |
-| 9          | -                                         | -                                    | -                                    |
-| 10         | -                                         | -                                    | -                                    |
+| 9          | Regularization                            | [lecture](lectures/DL-Session09.pdf) | -                                    |
+| 10         | Convolutional Neural Networks             | [lecture](lectures/DL-Session10.pdf) | -                                    |
+| 11         | -                                         | -                                    | -                                    |
+| 12         | -                                         | -                                    | -                                    |
+| 13         | -                                         | -                                    | -                                    |
+| 14         | -                                         | -                                    | -                                    |
 
 ## Setup
 
