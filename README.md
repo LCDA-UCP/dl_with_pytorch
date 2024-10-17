@@ -8,11 +8,16 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 
 ## Syllabus
 
-| **Module** | **Topic**           | **Lecture**                          | **Exercises**                    |
-|------------|---------------------|--------------------------------------|----------------------------------|
-| 1          | Course Introduction | [lecture](lectures/DL-Session01.pdf) | -                                |
-| 2          | NumPy Fundamentals  | [lecture](lectures/DL-Session02.pdf) | [exercises](exercises/session02) |
-| 3          | The Perceptron      | [lecture](lectures/DL-Session03.pdf) | [exercises](exercises/session03) |
+| **Module** | **Topic**                    | **Lecture**                          | **Exercises**                    |
+|------------|------------------------------|--------------------------------------|----------------------------------|
+| 1          | Course Introduction          | [lecture](lectures/DL-Session01.pdf) | -                                |
+| 2          | NumPy Fundamentals           | [lecture](lectures/DL-Session02.pdf) | [exercises](exercises/session02) |
+| 3          | The Perceptron               | [lecture](lectures/DL-Session03.pdf) | [exercises](exercises/session03) |
+| 4          | PyTorch Introduction         | [lecture](lectures/DL-Session04.pdf) | [exercises](exercises/session04) |
+| 5          | Training Neural Networks     | [lecture](lectures/DL-Session05.pdf) | -                                |
+| 6          | Neural Networks with PyTorch | -                                    | [exercises](exercises/session06) |
+| 7          | -                            | -                                    | -                                |
+| 8          | -                            | -                                    | -                                |
 
 ## Setup
 
@@ -28,6 +33,8 @@ pip install -r requirements.txt
 ```
 
 **Note: If you are using a virtual environment, make sure to activate it before running the command above. Using a conda environment is recommended.**
+
+You also need to install pytorch. For that follow the instructions on the [official website](https://pytorch.org/get-started/locally/).
 
 You can now commit and push your changes to your forked repository.
 
@@ -62,3 +69,18 @@ git pull origin main
 ```
 
 This will update your branch with the latest changes from the main branch.
+
+## If pull fails:
+
+If you get an error message, make sure to commit your changes before pulling the changes from the main branch.
+
+You may also need to fetch the changes from the main branch and merge them into your branch.
+
+For that, run the following commands in your terminal:
+
+```bash
+git fetch origin main
+git merge origin/main
+```
+
+If you have any conflicts, you will need to resolve them before committing the changes.
