@@ -8,22 +8,22 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 
 ## Syllabus
 
-| **Module** | **Topic**                                 | **Lecture**                          | **Exercises**                        |
-|------------|-------------------------------------------|--------------------------------------|--------------------------------------|
-| 1          | Course Introduction                       | [lecture](lectures/DL-Session01.pdf) | -                                    |
-| 2          | NumPy Fundamentals                        | [lecture](lectures/DL-Session02.pdf) | [exercises](exercises/session02)     |
-| 3          | The Perceptron                            | [lecture](lectures/DL-Session03.pdf) | [exercises](exercises/session03)     |
-| 4          | PyTorch Introduction                      | [lecture](lectures/DL-Session04.pdf) | [exercises](exercises/session04)     |
-| 5          | Training Neural Networks                  | [lecture](lectures/DL-Session05.pdf) | -                                    |
-| 6          | Neural Networks with PyTorch              | [lecture](lectures/DL-Session06.pdf) | [exercises](exercises/session06-08)  |
-| 7          | Model Selection and Hyperparameter Tuning | [lecture](lectures/DL-Session07.pdf) | -                                    |
-| 8          | Neural Networks with PyTorch              | [lecture](lectures/DL-Session08.pdf) | [exercises](exercises/session06-08)  |
-| 9          | Regularization                            | [lecture](lectures/DL-Session09.pdf) | -                                    |
-| 10         | Convolutional Neural Networks             | [lecture](lectures/DL-Session10.pdf) | -                                    |
-| 11         | -                                         | -                                    | -                                    |
-| 12         | -                                         | -                                    | -                                    |
-| 13         | -                                         | -                                    | -                                    |
-| 14         | -                                         | -                                    | -                                    |
+| **Module** | **Topic**                                 | **Lecture**                              | **Exercises**                        |
+|------------|-------------------------------------------|------------------------------------------|--------------------------------------|
+| 1          | Course Introduction                       | [lecture](lectures/DL-Session01.pdf)     | -                                    |
+| 2          | NumPy Fundamentals                        | [lecture](lectures/DL-Session02.pdf)     | [exercises](exercises/session02)     |
+| 3          | The Perceptron                            | [lecture](lectures/DL-Session03.pdf)     | [exercises](exercises/session03)     |
+| 4          | PyTorch Introduction                      | [lecture](lectures/DL-Session04.pdf)     | [exercises](exercises/session04)     |
+| 5          | Training Neural Networks                  | [lecture](lectures/DL-Session05.pdf)     | -                                    |
+| 6          | Neural Networks with PyTorch              | [lecture](lectures/DL-Session06.pdf)     | [exercises](exercises/session06-08)  |
+| 7          | Model Selection and Hyperparameter Tuning | [lecture](lectures/DL-Session07.pdf)     | -                                    |
+| 8          | Neural Networks with PyTorch              | [lecture](lectures/DL-Session08.pdf)     | [exercises](exercises/session06-08)  |
+| 9          | Regularization                            | [lecture](lectures/DL-Session09.pdf)     | -                                    |
+| 10         | Convolutional Neural Networks             | [lecture](lectures/DL-Session10-11.pdf)  | -                                    |
+| 11         | Convolutional Neural Networks             | [lecture](lectures/DL-Session10-11.pdf)  | -                                    |
+| 12         | -                                         | -                                        | -                                    |
+| 13         | -                                         | -                                        | -                                    |
+| 14         | -                                         | -                                        | -                                    |
 
 ## Setup
 
