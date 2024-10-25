@@ -42,7 +42,7 @@ class Perceptron:
         np.ndarray
             The weighted sum of the inputs.
         """
-        return np.dot(x, self.weights) + self.bias
+        return ...
 
     @staticmethod
     def activation_func(x: np.ndarray) -> np.ndarray:
@@ -61,8 +61,7 @@ class Perceptron:
         np.ndarray
             The output of the activation function (0 if x < 0, 1 if x >= 0).
         """
-        # return np.max(x, 0)
-        return np.where(x > 0, 1, 0)
+        return ...
 
     def predict(self, x: np.ndarray) -> np.ndarray:
         """
@@ -78,8 +77,7 @@ class Perceptron:
         np.ndarray
             The model predictions.
         """
-        ws = self.weighted_sum(x)
-        y_predicted = self.activation_func(ws)
+        y_predicted = ...
         return y_predicted
 
     def fit(self, x: np.ndarray, y: np.ndarray) -> 'Perceptron':
@@ -104,11 +102,11 @@ class Perceptron:
             # loop through each input and output pair
             for xi, yi in zip(x, y):
                 # 1. calculate y_pred (the prediction)
-                y_pred = self.predict(xi)
+                # ...
 
                 # 2. update the weights and bias
                 # Wi = Wi + lr * (y_true - y_pred) * xi
-                self.weights = self.weights + self.lr * (yi - y_pred) * xi
+                # ...
         return self
 
 if __name__ == '__main__':
