@@ -21,7 +21,7 @@ import torch
 from torch import nn
 
 class ManualLinearRegressor(nn.Module):
-    def __init__(self)
+    def __init__(self):
         super().__init__()
         self.w = nn.Parameter(torch.randn(()))
         self.b = nn.Parameter(torch.randn(()))
