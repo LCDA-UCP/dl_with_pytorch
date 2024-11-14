@@ -8,35 +8,35 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 
 ## Syllabus
 
-| **Module** | **Topic**                                 | **Lecture**                             | **Exercises**                       |
-|------------|-------------------------------------------|-----------------------------------------|-------------------------------------|
-| 1          | Course Introduction                       | [lecture](lectures/DL-Session01.pdf)    | -                                   |
-| 2          | NumPy Fundamentals                        | [lecture](lectures/DL-Session02.pdf)    | [exercises](exercises/session02)    |
-| 3          | The Perceptron                            | [lecture](lectures/DL-Session03.pdf)    | [exercises](exercises/session03)    |
-| 4          | PyTorch Introduction                      | [lecture](lectures/DL-Session04.pdf)    | [exercises](exercises/session04)    |
-| 5          | Training Neural Networks                  | [lecture](lectures/DL-Session05.pdf)    | -                                   |
-| 6          | Neural Networks with PyTorch              | [lecture](lectures/DL-Session06.pdf)    | [exercises](exercises/session06-08) |
-| 7          | Model Selection and Hyperparameter Tuning | [lecture](lectures/DL-Session07.pdf)    | -                                   |
-| 8          | Neural Networks with PyTorch              | [lecture](lectures/DL-Session08.pdf)    | [exercises](exercises/session06-08) |
-| 9          | Regularization                            | [lecture](lectures/DL-Session09.pdf)    | -                                   |
-| 10         | Convolutional Neural Networks             | [lecture](lectures/DL-Session10-11.pdf) | -                                   |
-| 11         | Convolutional Neural Networks             | [lecture](lectures/DL-Session10-11.pdf) | [exercises](exercises/session11-12) |
-| 12         | Convolutional Neural Networks             | [lecture](lectures/DL-Session12.pdf)    | [exercises](exercises/session11-12) |
-| 13         | -                                         | -                                       | -                                   |
-| 14         | -                                         | -                                       | -                                   |
-| 15         | -                                         | -                                       | -                                   |
-| 16         | -                                         | -                                       | -                                   |
-| 17         | -                                         | -                                       | -                                   |
-| 18         | -                                         | -                                       | -                                   |
-| 19         | -                                         | -                                       | -                                   |
-| 20         | -                                         | -                                       | -                                   |
-| 21         | Exam                                      | -                                       | -                                   |
-| 22         | -                                         | -                                       | -                                   |
-| 23         | -                                         | -                                       | -                                   |
-| 24         | -                                         | -                                       | -                                   |
-| 25         | -                                         | -                                       | -                                   |
-| 26         | -                                         | -                                       | -                                   |
-| 27         | -                                         | -                                       | -                                   |
+| **Module** | **Topic**                                         | **Lecture**                             | **Exercises**                      |
+|------------|---------------------------------------------------|-----------------------------------------|------------------------------------|
+| 1          | Course Introduction                               | [lecture](lectures/DL-Session01.pdf)    | -                                  |
+| 2          | NumPy Fundamentals                                | [lecture](lectures/DL-Session02.pdf)    | [exercises](exercises/session02)   |
+| 3          | The Perceptron                                    | [lecture](lectures/DL-Session03.pdf)    | [exercises](exercises/session03)   |
+| 4          | PyTorch Introduction                              | [lecture](lectures/DL-Session04.pdf)    | [exercises](exercises/session04)   |
+| 5          | Training Neural Networks                          | [lecture](lectures/DL-Session05.pdf)    | -                                  |
+| 6          | Neural Networks with PyTorch                      | [lecture](lectures/DL-Session06.pdf)    | [exercises](exercises/session06-08) |
+| 7          | Model Selection and Hyperparameter Tuning         | [lecture](lectures/DL-Session07.pdf)    | -                                  |
+| 8          | Neural Networks with PyTorch                      | [lecture](lectures/DL-Session08.pdf)    | [exercises](exercises/session06-08) |
+| 9          | Regularization                                    | [lecture](lectures/DL-Session09.pdf)    | -                                  |
+| 10         | Convolutional Neural Networks                     | [lecture](lectures/DL-Session10-11.pdf) | -                                  |
+| 11         | Convolutional Neural Networks                     | [lecture](lectures/DL-Session10-11.pdf) | [exercises](exercises/session11-12) |
+| 12         | Convolutional Neural Networks                     | [lecture](lectures/DL-Session12.pdf)    | [exercises](exercises/session11-12) |
+| 13         | Intro to Computer Vision and Image Classification | [lecture](lectures/DL-Session13.pdf)    |                                    |
+| 14         | Recurrent Neural Networks                         | -                                       | -                                  |
+| 15         | Recurrent Neural Networks                         | -                                       | -                                  |
+| 16         | -                                                 | -                                       | -                                  |
+| 17         | -                                                 | -                                       | -                                  |
+| 18         | -                                                 | -                                       | -                                  |
+| 19         | -                                                 | -                                       | -                                  |
+| 20         | -                                                 | -                                       | -                                  |
+| 21         | Exam                                              | -                                       | -                                  |
+| 22         | -                                                 | -                                       | -                                  |
+| 23         | -                                                 | -                                       | -                                  |
+| 24         | -                                                 | -                                       | -                                  |
+| 25         | -                                                 | -                                       | -                                  |
+| 26         | -                                                 | -                                       | -                                  |
+| 27         | -                                                 | -                                       | -                                  |
 
 ## Setup
 
