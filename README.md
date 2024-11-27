@@ -36,7 +36,7 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 | 24         | -                                                 | -                                       | -                                      |
 | 25         | -                                                 | -                                       | -                                      |
 | 26         | -                                                 | -                                       | -                                      |
-| 27         | -                                                 | -                                       | -                                      |
+| 27         | Project Presentation                              | -                                       | -                                      |
 
 ## Setup
 
