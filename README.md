@@ -25,12 +25,12 @@ Aprendizagem Profunda, Licenciatura em Ciência de Dados Aplicada, Universidade 
 | 13         | Intro to Computer Vision and Image Classification | [lecture](lectures/DL-Session13.pdf)    |                                        |
 | 14         | Recurrent Neural Networks                         | [lecture](lectures/DL-Session14.pdf)    | -                                      |
 | 15         | Recurrent Neural Networks                         | [lecture](lectures/DL-Session15.pdf)    | [exercises](exercises/session15-16-17) |
-| 16         | Recurrent Neural Networks - Hands-On              | [lecture](lectures/DL-Session16.pdf)    | [exercises](exercises/session15-16-17)    |
-| 17         | Recurrent Neural Networks - Hands-On              | [lecture](lectures/DL-Session17.pdf)    | [exercises](exercises/session15-16-17)    |
-| 18         | -                                                 | -                                       | -                                      |
-| 19         | -                                                 | -                                       | -                                      |
-| 20         | -                                                 | -                                       | -                                      |
-| 21         | Exam                                              | -                                       | -                                      |
+| 16         | Recurrent Neural Networks - Hands-On              | [lecture](lectures/DL-Session16.pdf)    | [exercises](exercises/session15-16-17) |
+| 17         | Recurrent Neural Networks - Hands-On              | [lecture](lectures/DL-Session17.pdf)    | [exercises](exercises/session15-16-17) |
+| 18         | Attention Mechanisms                              | [lecture](lectures/DL-Session18.pdf)    | -                                      |
+| 19         | Attention Mechanisms - Hands-On                   | [lecture](lectures/DL-Session19.pdf)    | [exercises](exercises/session19-20)    |
+| 20         | Attention Mechanisms - Hands-On                   | [lecture](lectures/DL-Session20.pdf)    | [exercises](exercises/session19-20)    |
+| 21         | Exam                                              | [lecture](lectures/DL-Session21.pdf)    | -                                      |
 | 22         | -                                                 | -                                       | -                                      |
 | 23         | -                                                 | -                                       | -                                      |
 | 24         | -                                                 | -                                       | -                                      |
