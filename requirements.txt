@@ -2,4 +2,4 @@ matplotlib==3.9.2
 modin[all]
 scikit-learn
 nltk
-numpy==2.1.2
+transformers==4.46.3
